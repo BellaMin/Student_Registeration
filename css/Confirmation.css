@@ -1,0 +1,82 @@
+#lettercontainer
+{
+	 	background-color:#ee82ee;
+    width:600px;
+	height:450px;
+	padding: 20px; 
+	border-radius: 25px;
+    left: 28%;
+    top: 10%;
+	display: inline-block;
+    text-align:center;
+    position: absolute;
+	float:right;
+}
+
+body {
+  background-color: hsl(0, 100%, 90%);
+}
+
+
+h1
+{
+	font-size:48px;
+	text-align:left;
+	color:#6a5acd;
+}
+
+p
+{
+	color:hsl(248, 53%, 58%);
+	font-size:24px;
+	text-align:left;
+}
+
+
+#homebuttoncontainer
+{
+	background-color:#6a5acd;
+    width:300px;
+	height:50px;
+	padding: 20px; 
+	border-radius: 25px;
+    left: 0%;
+    top: 80%;
+	display: inline-block;
+    text-align:center;
+    position: absolute;
+	float:right;	
+}
+
+button {
+  width: 100%;
+  background-color: #6a5acd;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#homebuttoncontainer2
+{
+    background-color:#6a5acd;
+    width:300px;
+	height:50px;
+	padding: 20px; 
+	border-radius: 25px;
+    left: 25%;
+    top: 80%;
+	display: inline-block;
+    text-align:center;
+    position: absolute;
+	float:right;	
+}
+
+h2
+{
+	color:#6a5acd;
+	font-size:40px;
+	text-align:left;
+}

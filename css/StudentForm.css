@@ -1,0 +1,60 @@
+body {
+  background-color: hsl(0, 100%, 90%);
+}
+
+label 
+{
+	color :rgb(255, 99, 71);
+	font-size:20px;
+}
+
+input[type=text] {
+  width: 100%;
+  background-color:white;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=number] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+button:hover {
+  background-color: rgb(238, 130, 238);
+}
+
+button {
+  width: 100%;
+  background-color: rgb(255, 99, 71);
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#studentformcontainer
+{
+   	background-color:hsl(0, 100%, 90%);
+    width:500px;
+	height:550px;
+	padding: 20px; 
+	border-radius: 25px;
+    left: 32%;
+    top: 10%;
+	display: inline-block;
+    text-align:center;
+    position: absolute;
+	float:right;
+}
